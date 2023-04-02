@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Location>alexandri ,egypt</Location>
+    <Description>public has wide range </Description>
+<Libraran>weam</Libraran>
+   <Books>
+         <Book>
+                <Title>science function</Title>
+                <ISBN>867656</ISBN>
+                 <Author>Jules Verne</Author>
+                <Preface>introduction</Preface>
+                <Parts>
+                   <Part>
+                     <Title>his life before the trip </Title>
+                     <Chapters>
+                          <Chapter>
+                              <title>chapter1</title>
+                               <summary>overview about event in thhis chapter</summary>
+                               <Section>
+                                  <Paragraph> first paragrapth</Paragraph>
+                               </Section>
+                               <Section>
+                                  <Paragraph>  secound paragrapth </Paragraph>
+                                </Section>
+                                <Section>
+                                   <Paragraph>third paragrapth</Paragraph>
+                                </Section>
+                          </Chapter>
+                          <Chapter>
+                              <title>chapter2 </title>
+                              <summary>overview about event in thhis chapter </summary>
+                              <Section>
+                                  <Paragraph> first paragrapth</Paragraph>
+                              </Section>
+                              <Section>
+                                  <Paragraph>  secound paragrapth </Paragraph>
+                              </Section>
+                              <Section>
+                                  <Paragraph>third paragrapth</Paragraph>
+                               </Section>
+                          </Chapter>
+                     </Chapters>
+                   </Part>
+                   <Part>
+                      <Title>his life before the trip</Title>
+                      <Chapters>
+                        <Chapter>
+                            <title>chapter1 </title>
+                            <summary> overview about event in thhis chapter</summary>
+                            <Section>
+                                <Paragraph> first paragrapth</Paragraph>
+                            </Section>
+                            <Section>
+                                <Paragraph>  secound paragrapth </Paragraph>
+                            </Section>
+                            <Section>
+                                <Paragraph>third paragrapth</Paragraph>
+                            </Section>
+                        </Chapter>
+                        <Chapter>
+                            <title>chapter2</title>
+                            <summary>overview about event in thhis chapter</summary>
+                            <Section>
+                                <Paragraph> first paragrapth</Paragraph>
+                            </Section>
+                            <Section>
+                                <Paragraph>  secound paragrapth </Paragraph>
+                            </Section>
+                            <Section>
+                                <Paragraph>third paragrapth</Paragraph>
+                            </Section>
+                        </Chapter>
+                    </Chapters>
+                    </Part>
+                </Parts>
+    </Book>
+    <Book>
+        <Title>science function</Title>
+        <ISBN>867656</ISBN>
+         <Author>Jules Verne</Author>
+        <Preface>introduction</Preface>
+        <Parts>
+           <Part>
+             <Title>his life before the trip </Title>
+             <Chapters>
+                  <Chapter>
+                      <title>chapter1</title>
+                       <summary>overview about event in thhis chapter</summary>
+                       <Section>
+                          <Paragraph> first paragrapth</Paragraph>
+                       </Section>
+                       <Section>
+                          <Paragraph>  secound paragrapth </Paragraph>
+                        </Section>
+                        <Section>
+                           <Paragraph>third paragrapth</Paragraph>
+                        </Section>
+                  </Chapter>
+                  <Chapter>
+                      <title>chapter2 </title>
+                      <summary>overview about event in thhis chapter </summary>
+                      <Section>
+                          <Paragraph> first paragrapth</Paragraph>
+                      </Section>
+                      <Section>
+                          <Paragraph>  secound paragrapth </Paragraph>
+                      </Section>
+                      <Section>
+                          <Paragraph>third paragrapth</Paragraph>
+                       </Section>
+                  </Chapter>
+             </Chapters>
+           </Part>
+           <Part>
+              <Title>his life before the trip</Title>
+              <Chapters>
+                <Chapter>
+                    <title>chapter1 </title>
+                    <summary> overview about event in thhis chapter</summary>
+                    <Section>
+                        <Paragraph> first paragrapth</Paragraph>
+                    </Section>
+                    <Section>
+                        <Paragraph>  secound paragrapth </Paragraph>
+                    </Section>
+                    <Section>
+                        <Paragraph>third paragrapth</Paragraph>
+                    </Section>
+                </Chapter>
+                <Chapter>
+                    <title>chapter2</title>
+                    <summary>overview about event in thhis chapter</summary>
+                    <Section>
+                        <Paragraph> first paragrapth</Paragraph>
+                    </Section>
+                    <Section>
+                        <Paragraph>  secound paragrapth </Paragraph>
+                    </Section>
+                    <Section>
+                        <Paragraph>third paragrapth</Paragraph>
+                    </Section>
+                </Chapter>
+            </Chapters>
+            </Part>
+        </Parts>
+</Book>
+</Books>
+</Library>
+
+
