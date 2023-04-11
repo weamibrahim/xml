@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./employee.xsl" ?>
+<employees>
+	<employee isbn="1">
+		<name>weam</name>
+		<phones>
+			<phone type="home">098867768</phone>
+			
+			<phone type="mobile">76765879900</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>st1,</street> 
+				<buildingNumber>7,</buildingNumber> 
+				<Region>sidesalam,</Region> 
+				<city>kafrelshieh,</city> 
+				<country>Egypt.</country>
+			</address> 
+			
+		</addresses>
+		<email>weam@gmail.com</email>
+	</employee>
+	<employee isbn="2">
+		<name>nour</name>
+		<phones>
+			<phone type="home">9876876554</phone>
+			
+			<phone type="mobile">0987875664458</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>st1,</street> 
+				<buildingNumber>8,</buildingNumber> 
+				<Region>Sidisalam,</Region> 
+				<city>kafrelshieh,</city> 
+				<country>Egypt.</country>
+			</address> 
+		</addresses>
+		<email>nour@gmail.com</email>
+	</employee>
+</employees>
